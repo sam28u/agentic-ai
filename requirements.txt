@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+# langchain-init_chat_model
+
+# langraph
+langgraph
+langsmith
+langchain_tavily
